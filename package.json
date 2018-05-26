@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-datatable-crawl-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/puppeteer-datatable-crawl-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/puppeteer-datatable-crawl-example/issues"
+  },
+  "homepage": "https://github.com/postor/puppeteer-datatable-crawl-example#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "puppeteer": "^1.4.0"
+  }
+}
